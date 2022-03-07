@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+[![ukohank517's GitHub stats](https://github-readme-stats.vercel.app/api?username=ukohank517&show_icons=true&theme=blue-green&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![ukohank517's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ukohank517&layout=compact&theme=blue-green&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **ukohank517/ukohank517** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
